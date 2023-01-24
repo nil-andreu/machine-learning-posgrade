@@ -5,3 +5,4 @@ scikit-learn==1.2.0
 # Data Visualization
 seaborn==0.12.2
 pingouin==0.5.3
+missingno==0.5.1
