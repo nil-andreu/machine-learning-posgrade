@@ -1,7 +1,0 @@
-pandas
-matplotlib
-seaborn
-pyarrow
-pyshp
-shapely
-descartes
