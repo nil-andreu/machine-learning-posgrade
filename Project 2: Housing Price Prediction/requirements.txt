@@ -1,6 +1,7 @@
 numpy==1.22.4
 pandas==1.5.0
 scikit-learn==1.2.0
+xgboost==1.7.3
 
 # Data Visualization
 seaborn==0.12.2
