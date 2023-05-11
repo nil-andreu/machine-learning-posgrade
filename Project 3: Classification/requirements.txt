@@ -1,0 +1,6 @@
+jupyter
+tensorflow==2.11.0
+matplotlib
+mlflow
+pyngrok
+pydot==1.4.2
