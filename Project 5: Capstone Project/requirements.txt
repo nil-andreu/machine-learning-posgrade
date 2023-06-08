@@ -2,3 +2,4 @@ tqdm
 pandas
 jupyter
 sklearn
+seaborn
