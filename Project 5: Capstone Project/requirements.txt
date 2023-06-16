@@ -4,3 +4,4 @@ jupyter
 sklearn
 seaborn
 requests
+icalendar
