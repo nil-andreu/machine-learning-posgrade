@@ -5,3 +5,4 @@ sklearn
 seaborn
 requests
 icalendar
+beautifulsoup4
