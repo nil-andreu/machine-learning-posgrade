@@ -6,3 +6,4 @@ seaborn
 requests
 icalendar
 beautifulsoup4
+scikit-learn
