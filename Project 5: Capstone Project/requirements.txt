@@ -7,3 +7,4 @@ requests
 icalendar
 beautifulsoup4
 scikit-learn
+xgboost
