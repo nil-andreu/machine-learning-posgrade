@@ -73,6 +73,11 @@ So with those two important insights, is where we would recommend to add new sta
 
 Check the main notebook: [here](Biking%20Share%20Prediction.ipynb)
 
+
+### GitHub
+
+Check the GitHub repository: [here](https://github.com/nil-andreu/machine-learning-posgrade/tree/main/Project%205:%20Capstone%20Project)
+
 ### Slides
 
 The link to the slides [here](https://docs.google.com/presentation/d/1CbbK80YcYotNryyyY7KHxq_KAhLSS3Hx/edit?usp=sharing&ouid=100844763926110461990&rtpof=true&sd=true).
