@@ -52,7 +52,9 @@ Also, we have done:
 We have trained different models, from simpler to more complex:
 - **Linear Regression**: as it had clear relationships between contexts and the Y variable (RMSE: 0.1154)
 - **XGBoost**: to detect more complex relationships (RMSE: 0.1144)
-- **Fully Connected NN**: 
+- **Fully Connected NN**: detecting this way the most complex relationships (RMSE: 0.1157)
+
+And the final model used at the end was an average of those predictions.
 
 ### What Affects Docks Available?
 
@@ -67,6 +69,12 @@ Moreover, we can see that the ones with less % of bikes available tend to be in 
 So with those two important insights, is where we would recommend to add new stations.
 
 
+### Notebook
+
+Check the main notebook: [here](Biking%20Share%20Prediction.ipynb)
+
 ### Slides
 
-The link to the slides [here](https://docs.google.com/presentation/d/1CbbK80YcYotNryyyY7KHxq_KAhLSS3Hx/edit?usp=sharing&ouid=100844763926110461990&rtpof=true&sd=true)
+The link to the slides [here](https://docs.google.com/presentation/d/1CbbK80YcYotNryyyY7KHxq_KAhLSS3Hx/edit?usp=sharing&ouid=100844763926110461990&rtpof=true&sd=true).
+
+
